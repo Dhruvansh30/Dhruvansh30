@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nalwaya5803" target="blank"><img src="https://img.shields.io/twitter/follow/nalwaya5803?logo=twitter&style=for-the-badge" alt="nalwaya5803" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Web development and DevOps**
 
 - 📫 How to reach me **dhruvanshp4094@gmail.com**
 
